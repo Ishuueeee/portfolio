@@ -1,0 +1,8 @@
+/* Profile */
+.img-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #65A8C5;
+    object-fit: cover;
+}

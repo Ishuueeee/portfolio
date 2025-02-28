@@ -1,0 +1,6 @@
+/*  Icons */
+.icons i {
+    font-size: 16px;
+    color: #1c5d79;
+    transition: transform 0.3s ease;
+}

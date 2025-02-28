@@ -1,0 +1,15 @@
+/* Buttons */
+.button {
+    display: inline-block;
+    background-color: #65A8C5;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.button:hover {
+    background-color: #1c5d79;
+}
